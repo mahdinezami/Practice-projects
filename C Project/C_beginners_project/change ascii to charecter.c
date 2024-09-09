@@ -6,7 +6,4 @@ int main()
     char char_ascii = ascii;
     printf("%c\n", char_ascii);
     return 0 ;
-
-
-
 }
